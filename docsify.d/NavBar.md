@@ -1,0 +1,3 @@
+- 详细
+  - [仓库地址](https://github.com/SCU-CS/Course-Template)
+  - [Org](https://github.com/SCU-CS)
