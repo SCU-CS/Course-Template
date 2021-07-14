@@ -3,3 +3,4 @@
   - [Org](https://github.com/SCU-CS)
 - 跳转
   - [README仓库](https://github.com/SCU-CS/README)
+  - [贡献者](https://github.com/SCU-CS/Contributors)
