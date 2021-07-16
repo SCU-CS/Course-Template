@@ -4,5 +4,5 @@
 - [PPT](ppt/README.md)
 - 作业
   - [平时作业](assignment/README.md)
-  - [大作业](assignment/README?id=大作业)
+  - [大作业](assignment/README?id=project)
 - [课设/实验](lab/README.md)
